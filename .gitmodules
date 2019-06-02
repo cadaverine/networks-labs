@@ -1,3 +1,6 @@
 [submodule "networks-lab-1"]
 	path = networks-lab-1
 	url = https://github.com/cadaverine/networks-lab-1.git
+[submodule "networks-lab-2"]
+	path = networks-lab-2
+	url = https://github.com/cadaverine/networks-lab-2.git
